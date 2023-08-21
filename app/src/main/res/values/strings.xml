@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrnecyConverter</string>
+    <string name="AppTitle">Currency Convertor</string>
+    <string name="from">From</string>
+    <string name="select_country">Select country</string>
+    <string name="to">To</string>
+    <string name="amount">Amount</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="convert">convert</string>
+    <string name="result">Result</string>
+    <string name="Euro">Euro (EUR)</string>
+    <string name="algerian_dinar">Algerian Dinar (DZD)</string>
+    <string name="share">Share</string>
+    <string name="Contact_us">Contact Us</string>
+</resources>
